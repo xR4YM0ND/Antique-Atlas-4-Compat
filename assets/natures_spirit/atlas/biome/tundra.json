@@ -1,0 +1,23 @@
+{
+    "textures": {
+        "valley": {
+            "antique_atlas:base/grass": 4,
+            "antique_atlas:biome/flatland/plains/grass_3": 4,
+            "antique_atlas:biome/flatland/plains/grass_cypress_tall_sparse": 1,
+            "antique_atlas:biome/woodland/flower/daisies_grass": 2,
+            "antique_atlas:biome/woodland/flower/dandelion_grass": 3
+        },
+        "mid": {
+            "antique_atlas:biome/flatland/plains/grass_hills_low": 8,
+            "antique_atlas:biome/flatland/plains/grass_cypress_tall_sparse_hills_low": 1,
+            "antique_atlas:biome/woodland/flower/daisies_grass_hills_low": 2,
+            "antique_atlas:biome/woodland/flower/dandelion_grass_hills_low": 3
+        },
+        "peak": {
+            "antique_atlas:biome/flatland/plains/grass_hills": 8,
+            "antique_atlas:biome/flatland/plains/grass_cypress_tall_sparse_hills": 1,
+            "antique_atlas:biome/woodland/forest/flower/daisies_hills": 2,
+            "antique_atlas:biome/woodland/flower/dandelion_grass_hills": 3
+        }
+    }
+}

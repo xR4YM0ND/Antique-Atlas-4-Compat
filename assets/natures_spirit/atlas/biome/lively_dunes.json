@@ -1,0 +1,17 @@
+{
+    "textures": {
+        "valley": {
+            "antique_atlas:base/sand": 3,
+            "antique_atlas:biome/arid/desert/sand_1": 3,
+            "antique_atlas:biome/arid/desert/sand_shrubs": 2
+        },
+        "mid": {
+            "antique_atlas:biome/arid/desert/sand_hills_low": 6,
+            "antique_atlas:biome/arid/desert/shrubs_hills_low": 2
+        },
+        "peak": {
+            "antique_atlas:biome/arid/badlands/eroded/sand_shrubs_terracotta_mixed": 6,
+            "antique_atlas:biome/arid/badlands/eroded/sand_terracotta_fingers_shrubs": 2
+        }
+    }
+}

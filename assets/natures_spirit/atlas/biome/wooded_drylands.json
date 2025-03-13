@@ -1,0 +1,21 @@
+{
+	"textures": {
+		"valley": {
+            "antique_atlas:biome/arid/desert/sand_cacti_sparse": 1,
+			"antique_atlas:biome/arid/savanna/sand_grass_3": 3,
+            "antique_atlas:biome/arid/savanna/sand_grass_olive_sparse": 6,
+            "antique_atlas:biome/flatland/plains/grass_olive_sparse": 4
+		},
+		"high": {
+            "antique_atlas:biome/arid/desert/sand_cacti_sparse_hills_low": 1,
+			"antique_atlas:biome/arid/savanna/sand_grass_3_hills_low": 3,
+            "antique_atlas:biome/arid/savanna/sand_grass_olive_sparse_hills_low": 6,
+            "antique_atlas:biome/flatland/plains/grass_olive_sparse_hills_low": 4
+		},
+		"peak": {
+			"antique_atlas:biome/arid/savanna/sand_grass_3_hills": 3,
+            "antique_atlas:biome/arid/savanna/sand_grass_olive_sparse_hills": 6,
+            "antique_atlas:biome/flatland/plains/grass_olive_sparse_hills": 4
+		}
+	}
+}

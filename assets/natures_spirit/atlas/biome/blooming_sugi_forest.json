@@ -1,0 +1,8 @@
+{
+    "textures": {
+        "antique_atlas:biome/woodland/forest/sugi/sugi_stone_fingers_shrubs": 5,
+        "antique_atlas:biome/flatland/plains/grass_oak_fancy_tall_sparse": 3,
+        "antique_atlas:biome/woodland/flower/dandelion_grass": 2
+    },
+	"priority": 1900
+}

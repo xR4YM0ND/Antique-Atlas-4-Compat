@@ -1,0 +1,13 @@
+{
+	"antique_atlas:tiling": {
+		"parent": "antique_atlas:base/plateau",
+        "tags": [
+            "antique_atlas:sand_plateau",
+            "antique_atlas:grass_plateau"
+		],
+        "tilesTo": [
+			"#antique_atlas:sand_plateau",
+            "#antique_atlas:grass_plateau"
+		]
+	}
+}

@@ -1,0 +1,17 @@
+{
+    "textures": {
+        "valley": {
+            "antique_atlas:base/grass": 1,
+            "antique_atlas:biome/flatland/plains/grass_3": 1,
+            "antique_atlas:biome/woodland/flower/cornflower_grass": 4
+        },
+        "mid": {
+            "antique_atlas:biome/flatland/plains/grass_hills_low": 2,
+            "antique_atlas:biome/woodland/flower/cornflower_grass_hills_low": 4
+        },
+        "peak": {
+            "antique_atlas:biome/flatland/plains/grass_hills": 2,
+            "antique_atlas:biome/woodland/flower/cornflower_grass_hills": 4
+        }
+    }
+}
