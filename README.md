@@ -1,6 +1,6 @@
 <center>
   
-![antique atlas 4 compat title wide](Gallery/title_wide.png)
+![antique atlas 4 compat title wide](Gallery/antique_atlas_compat_title_wide.png)
 
 This resourcepack adds modded support for [antique atlas 4](https://modrinth.com/mod/antique-atlas-4) & various world generation / structure mods.
 
