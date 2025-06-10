@@ -1,0 +1,16 @@
+{
+	"textures": {
+		"valley": {
+            "antique_atlas:biome/flatland/plains/grass_oak_sparse_hills_low": 1,
+            "antique_atlas:biome/flatland/plains/grass_oak_fancy_sparse_hills_low": 3
+		},
+		"mid": {
+			"antique_atlas:biome/flatland/plains/grass_oak_sparse_hills": 1,
+            "antique_atlas:biome/flatland/plains/grass_oak_fancy_sparse_hills": 3
+		},
+        "peak": {
+			"antique_atlas:biome/highland/windswept/forest/rough_oak_mountains": 4,
+            "antique_atlas:biome/highland/grove/cherry/smooth_cherry_mountains": 1
+		}
+	}
+}

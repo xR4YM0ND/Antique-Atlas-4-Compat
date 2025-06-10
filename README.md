@@ -7,7 +7,9 @@ This resourcepack adds modded support for [antique atlas 4](https://modrinth.com
 ## Supported Mods:
 </center>
 
+- [Cliff under a Tree (CliffTree)](https://modrinth.com/datapack/clifftree) `// biomes`
 - [Nature's Spirit](https://modrinth.com/mod/natures-spirit) `// biomes + structures + markers`
+- [Terralith](https://modrinth.com/datapack/terralith) `// biomes`
 
 <center>
 
@@ -15,8 +17,8 @@ If you want support for other mods let me know.
 
 ## Credits
 
-<a href="https://discord.gg/2peBqWRwVp" target="_blank">
-<img alt="Discord Globox_Hood" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
+<a href="https://discord.gg/WXdSYn4yHB" target="_blank">
+<img alt="Discord Fabricated Atelier" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/Antique-Atlas-4-Compat/tree/main/LICENSE" target="_blank">
 <img alt="GitHub License" src="https://img.shields.io/github/license/xR4YM0ND/Antique-Atlas-4-Compat?style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/Antique-Atlas-4-Compat" target="_blank">

@@ -1,0 +1,25 @@
+{
+	"textures": {
+        "valley": {
+            "antique_atlas:biome/arid/savanna/grass_acacia_1": 2,
+            "antique_atlas:biome/arid/savanna/grass_acacia_2": 1,
+            "antique_atlas:biome/arid/savanna/grass_acacia_3": 1,
+            "antique_atlas:biome/flatland/plains/grass_3": 1,
+            "antique_atlas:base/grass": 1
+		},
+		"mid": {
+            "antique_atlas:biome/arid/savanna/plateau/grass_acacia_plateau_1": 2,
+            "antique_atlas:biome/arid/savanna/plateau/grass_acacia_plateau_3": 1,
+            "antique_atlas:biome/arid/savanna/plateau/grass_plateau_2": 3,
+            "antique_atlas:biome/arid/savanna/plateau/grass_plateau_3": 2
+		},
+		"peak": {
+            "antique_atlas:biome/arid/savanna/windswept/acacia_cliffs_1": 1,
+            "antique_atlas:biome/arid/savanna/windswept/acacia_cliffs_2": 1,
+            "antique_atlas:biome/arid/savanna/windswept/acacia_cliffs_3": 1,
+            "antique_atlas:biome/arid/savanna/windswept/acacia_cliffs_clouds_1": 2,
+            "antique_atlas:biome/arid/savanna/windswept/acacia_cliffs_clouds_2": 2,
+            "antique_atlas:biome/arid/savanna/windswept/acacia_cliffs_clouds_3": 2
+		}
+	}
+}

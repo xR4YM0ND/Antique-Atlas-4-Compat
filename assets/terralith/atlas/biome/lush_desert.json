@@ -1,0 +1,28 @@
+{
+    "textures": {
+        "valley": {
+            "antique_atlas:biome/arid/savanna/sand_grass": 5,
+            "antique_atlas:biome/arid/savanna/sand_grass_3": 6,
+            "antique_atlas:biome/arid/savanna/sand_grass_acacia_2_sparse": 1,
+            "antique_atlas:biome/arid/desert/sand_cacti_sparse": 2,
+            "antique_atlas:biome/arid/desert/sand_cacti": 2
+        },
+        "mid": {
+            "antique_atlas:biome/arid/savanna/sand_grass_hills_low": 5,
+            "antique_atlas:biome/arid/savanna/sand_grass_3_hills_low": 6,
+            "antique_atlas:biome/arid/savanna/sand_grass_acacia_2_sparse_hills_low": 1,
+            "antique_atlas:biome/arid/desert/sand_cacti_sparse_hills_low": 2,
+            "antique_atlas:biome/arid/desert/sand_cacti_hills_low": 2
+        },
+        "peak": {
+            "antique_atlas:biome/arid/savanna/plateau/sand_grass_plateau_1": 2,
+			"antique_atlas:biome/arid/savanna/plateau/sand_grass_plateau_2": 2,
+			"antique_atlas:biome/arid/savanna/plateau/sand_grass_plateau_3": 2,
+			"antique_atlas:biome/arid/savanna/plateau/sand_grass_acacia_plateau_1": 1,
+			"antique_atlas:biome/arid/savanna/plateau/sand_grass_acacia_plateau_2": 1,
+			"antique_atlas:biome/arid/savanna/plateau/sand_grass_acacia_plateau_3": 1,
+            "antique_atlas:biome/arid/savanna/plateau/sand_grass_cacti_sparse_plateau": 3,
+			"antique_atlas:biome/arid/savanna/plateau/sand_grass_cacti_plateau": 2
+        }
+    }
+}

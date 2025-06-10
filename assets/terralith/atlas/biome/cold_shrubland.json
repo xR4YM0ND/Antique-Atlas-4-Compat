@@ -1,0 +1,18 @@
+{
+	"textures": {
+		"valley": [
+            "antique_atlas:base/snow",
+			"antique_atlas:biome/flatland/plains/snowy/snow_pine_sparse_1",
+            "antique_atlas:biome/flatland/plains/snowy/snow_pine_sparse_2"
+        ],
+        "mid": [
+            "antique_atlas:biome/flatland/plains/snowy/snow_hills_low",
+            "antique_atlas:biome/flatland/plains/snowy/snow_pine_sparse_1",
+            "antique_atlas:biome/flatland/plains/snowy/snow_pine_sparse_2"
+        ],
+		"peak": [
+            "antique_atlas:biome/flatland/plains/snowy/snow_hills",
+            "antique_atlas:biome/woodland/taiga/snowy/snow_pine_hills"
+        ]
+	}
+}

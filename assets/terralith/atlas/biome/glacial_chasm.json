@@ -1,0 +1,6 @@
+{
+	"textures": {
+        "valley": "antique_atlas:biome/nonland/ocean/frozen/ice_ice_spikes",
+        "high": "antique_atlas:biome/highland/peaks/frozen/rough_mountains"
+    }
+}

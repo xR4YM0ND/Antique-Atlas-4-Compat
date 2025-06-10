@@ -1,0 +1,13 @@
+{
+	"textures": {
+		"valley": {
+			"antique_atlas:base/sand": 2,
+			"antique_atlas:biome/arid/desert/sand_1": 2,
+			"antique_atlas:biome/arid/desert/sand_shrubs": 2
+		},
+		"high": {
+			"antique_atlas:biome/arid/desert/shrubs_hills_low": 2,
+            "antique_atlas:biome/arid/desert/sand_hills_low": 1
+		}
+	}
+}
