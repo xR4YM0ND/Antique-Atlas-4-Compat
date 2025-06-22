@@ -1,0 +1,11 @@
+{
+	"textures": {
+		"valley": {
+			"antique_atlas:base/snow": 5,
+			"antique_atlas:biome/flatland/plains/snowy/snow_2": 3,
+			"antique_atlas:biome/flatland/plains/snowy/snow_3": 3
+		},
+		"high": "antique_atlas:biome/flatland/plains/snowy/snow_hills_low",
+		"peak": "antique_atlas:biome/flatland/plains/snowy/snow_hills"
+	}
+}

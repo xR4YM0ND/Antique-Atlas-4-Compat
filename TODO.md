@@ -1,3 +1,19 @@
+# Ad Astra
+
+## STRUCTURES
+
+Dungeon / Moon
+Temple / Mars
+Village / Moon
+Crimson Room
+Crimson Tower
+Crimson Way
+Meteor
+Oil
+Space Station
+Venus Tower
+Warped Watch Tower
+
 # Nature's Spirit
 
 ## STRUCTURES

@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"valley": "antique_atlas:base/cave",
+		"peak": "antique_atlas:base/plateau_square"
+	}
+}

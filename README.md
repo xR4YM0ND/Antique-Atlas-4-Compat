@@ -7,6 +7,7 @@ This resourcepack adds modded support for [antique atlas 4](https://modrinth.com
 ## Supported Mods:
 </center>
 
+- [Ad Astra](https://modrinth.com/mod/ad-astra) `// biomes`
 - [Cliff under a Tree (CliffTree)](https://modrinth.com/datapack/clifftree) `// biomes`
 - [Nature's Spirit](https://modrinth.com/mod/natures-spirit) `// biomes + structures + markers`
 - [Terralith](https://modrinth.com/datapack/terralith) `// biomes`

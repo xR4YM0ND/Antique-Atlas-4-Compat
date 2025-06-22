@@ -1,0 +1,10 @@
+{
+	"antique_atlas:tiling": {
+		"parent": "antique_atlas:base/hills_low",
+		"tags": [
+			"antique_atlas:sand_hills_low",
+			"#antique_atlas:caves",
+			"#antique_atlas:small_land_structures"
+		]
+	}
+}

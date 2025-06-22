@@ -1,5 +1,10 @@
 # Antique Atlas Compat Changelog
 
+## 1.2
+
+### Added:
+- Ad Astra `2.11.2` Support `// biomes`
+
 ## 1.1
 
 ### Fixed:
