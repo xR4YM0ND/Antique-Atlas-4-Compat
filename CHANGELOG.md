@@ -4,6 +4,7 @@
 
 ### Added:
 - Ad Astra `2.11.2` Support `// biomes`
+- Spawn `1.0.3` Support `// biome`
 
 ## 1.1
 
