@@ -4,6 +4,7 @@
 
 ### Added:
 - Ad Astra `2.11.2` Support `// biomes`
+- Atmospheric `6.1.1` Support `// biomes`
 - Environmental `4.0.1` Support `// biomes`
 - Spawn `1.0.3` Support `// biome`
 

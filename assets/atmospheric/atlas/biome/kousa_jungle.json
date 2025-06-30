@@ -1,0 +1,16 @@
+{
+    "textures": {
+        "valley": {
+            "antique_atlas:biome/woodland/jungle/bamboo/snowy_grass_bamboo": 1,
+            "antique_atlas:biome/woodland/taiga/snowy/snow_spruce_pine": 1
+        },
+        "mid": {
+            "antique_atlas:biome/woodland/jungle/bamboo/snowy_grass_bamboo_hills_low": 1,
+            "antique_atlas:biome/flatland/plains/snowy/snow_hills_low": 1
+        },
+        "peak": {
+            "antique_atlas:biome/woodland/jungle/bamboo/snowy_grass_bamboo_hills": 1,
+            "antique_atlas:biome/woodland/taiga/snowy/snow_spruce_pine_hills": 1
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"textures": {
+		"valley": {
+			"antique_atlas:biome/woodland/jungle/jungle_mega": 1,
+			"antique_atlas:biome/woodland/jungle/jungle_mega_palm": 1,
+            "antique_atlas:biome/flatland/plains/grass_bushes": 1,
+            "antique_atlas:biome/flatland/plains/grass_3": 2
+        },
+		"high": {
+			"antique_atlas:biome/woodland/jungle/jungle_mega_hills_low": 1,
+			"antique_atlas:biome/woodland/jungle/jungle_mega_palm_hills_low": 1,
+            "antique_atlas:biome/flatland/plains/grass_bushes_hills_low": 1,
+            "antique_atlas:biome/flatland/plains/grass_hills_low": 2
+        }
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "textures": {
+        "valley": {
+            "antique_atlas:base/snow": 2,
+            "antique_atlas:biome/flatland/plains/snowy/snow_2": 2,
+            "antique_atlas:biome/flatland/plains/snowy/snow_3": 2,
+            "antique_atlas:biome/flatland/plains/snowy/snow_spruce_sparse_1": 1
+        },
+        "high": {
+            "antique_atlas:biome/flatland/plains/snowy/snow_hills_low": 1
+        }
+    }
+}

@@ -8,6 +8,7 @@ This resourcepack adds modded support for [antique atlas 4](https://modrinth.com
 </center>
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra) `// biomes`
+- [Atmospheric](https://modrinth.com/mod/atmospheric)
 - [Cliff under a Tree (CliffTree)](https://modrinth.com/datapack/clifftree) `// biomes`
 - [Environmental](https://modrinth.com/mod/environmental) `// biomes`
 - [Nature's Spirit](https://modrinth.com/mod/natures-spirit) `// biomes + structures + markers`
