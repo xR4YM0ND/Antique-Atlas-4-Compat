@@ -1,0 +1,19 @@
+{
+	"textures": {
+		"valley": {
+			"antique_atlas:biome/woodland/flower/cornflower_grass": 1,
+            "antique_atlas:biome/woodland/flower/daisies_grass": 1,
+            "antique_atlas:biome/woodland/flower/dandelion_grass": 1
+		},
+		"low": {
+			"antique_atlas:biome/woodland/flower/cornflower_grass_hills_low": 1,
+            "antique_atlas:biome/woodland/flower/daisies_grass_hills_low": 1,
+            "antique_atlas:biome/woodland/flower/dandelion_grass_hills_low": 1
+		},
+		"peak": {
+			"antique_atlas:biome/woodland/flower/cornflower_grass_hills": 1,
+            "antique_atlas:biome/woodland/forest/flower/daisies_hills": 1,
+            "antique_atlas:biome/woodland/flower/dandelion_grass_hills": 1
+        }
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"textures": {
+		"valley": {
+			"antique_atlas:biome/woodland/taiga/snowy/snow_pine": 1
+		},
+		"high": {
+			"antique_atlas:biome/woodland/taiga/snowy/snow_pine_hills": 1
+        }
+	}
+}
