@@ -9,11 +9,13 @@ This resourcepack adds modded support for [antique atlas 4](https://modrinth.com
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra) `// biomes`
 - [Atmospheric](https://modrinth.com/mod/atmospheric)
+- [Autumnity](https://modrinth.com/mod/autumnity)
 - [Cliff under a Tree (CliffTree)](https://modrinth.com/datapack/clifftree) `// biomes`
 - [Environmental](https://modrinth.com/mod/environmental) `// biomes`
 - [Nature's Spirit](https://modrinth.com/mod/natures-spirit) `// biomes + structures + markers`
 - [Spawn](https://modrinth.com/mod/spawn-mod) `// biome`
 - [Terralith](https://modrinth.com/datapack/terralith) `// biomes`
+- [Vanille Backport](https://modrinth.com/mod/vanillabackport)
 
 <center>
 
