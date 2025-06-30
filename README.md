@@ -1,6 +1,6 @@
 <center>
   
-![antique atlas 4 compat title wide](Gallery/antique_atlas_compat_title_wide.png)
+![antique atlas 4 compat title wide](https://raw.githubusercontent.com/xR4YM0ND/Antique-Atlas-4-Compat/refs/heads/main/Gallery/antique_atlas_compat_title_wide.png)
 
 This resourcepack adds modded support for [antique atlas 4](https://modrinth.com/mod/antique-atlas-4) & various world generation / structure mods.
 
@@ -8,14 +8,14 @@ This resourcepack adds modded support for [antique atlas 4](https://modrinth.com
 </center>
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra) `// biomes`
-- [Atmospheric](https://modrinth.com/mod/atmospheric)
-- [Autumnity](https://modrinth.com/mod/autumnity)
+- [Atmospheric](https://modrinth.com/mod/atmospheric) `// biomes`
+- [Autumnity](https://modrinth.com/mod/autumnity) `// biomes`
 - [Cliff under a Tree (CliffTree)](https://modrinth.com/datapack/clifftree) `// biomes`
 - [Environmental](https://modrinth.com/mod/environmental) `// biomes`
 - [Nature's Spirit](https://modrinth.com/mod/natures-spirit) `// biomes + structures + markers`
 - [Spawn](https://modrinth.com/mod/spawn-mod) `// biome`
 - [Terralith](https://modrinth.com/datapack/terralith) `// biomes`
-- [Vanille Backport](https://modrinth.com/mod/vanillabackport)
+- [Vanille Backport](https://modrinth.com/mod/vanillabackport) `pale_oak biome`
 
 <center>
 
