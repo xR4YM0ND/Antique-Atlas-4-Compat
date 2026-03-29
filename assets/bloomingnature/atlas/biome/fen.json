@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "valley": [
+      "antique_atlas:base/grass",
+      "antique_atlas:biome/flatland/plains/grass_3",
+      "antique_atlas:biome/arid/badlands/terracotta_tiered_separate"
+    ]
+  }
+}

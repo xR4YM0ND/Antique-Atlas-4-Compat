@@ -1,5 +1,14 @@
 # Antique Atlas Compat Changelog
 
+## 1.3
+
+### Added:
+- [Let's Do] BloomingNature
+
+### Fixed:
+- RP won't load due to unsupported characters in filename `// removed filename colors`
+- Autumnity -> pumpkin_fields -> switched to solid texture `// way more visible`
+
 ## 1.2
 
 ### Added:

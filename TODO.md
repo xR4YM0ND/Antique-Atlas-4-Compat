@@ -1,7 +1,6 @@
-# Ad Astra
-
-## STRUCTURES
-
+# Todo List for Antique Atlas 4 Compat
+## Ad Astra
+### STRUCTURES
 - Dungeon / Moon
 - Temple / Mars
 - Village / Moon
@@ -14,17 +13,19 @@
 - Venus Tower
 - Warped Watch Tower
 
-# Atmospheric
+## All the biomes we have gone
+- everything
 
-## BIOMES
-
+## Atmospheric
+### BIOMES
 - Grimwoods `// couldn't find biome ingame`
 - Hot Springs `// couldn't find biome ingame`
 
-# Biomes O Plenty
+## Big Globe
+- everything
 
-## BIOMES
-
+## Biomes O Plenty
+### BIOMES
 - Bayou
 - Crystalline Chasm
 - End Corruption
@@ -32,16 +33,21 @@
 - End Wilds
 - Erupting Inferno
 
-# Nature's Spirit
-
-## STRUCTURES
-
+## Nature's Spirit
+### STRUCTURES
 - Village Adobe
 
-# Terralith
+## Regions Unexplored
+- everything
 
-## STRUCTURES
+## Still Life
+- everything
 
+## TerraFirmaCraft
+- everything
+
+## Terralith
+### STRUCTURES
 - Desert Outpost
 - Fortified Desert Village
 - Fortified Village
@@ -64,3 +70,10 @@
 - Underground Cabin
 - Valley Lodge
 - With Hut
+
+## The Twilighty Forest
+- everything
+
+## [Let's Do] BloomingNature
+### Biomes
+- desert_oasis `// couldn't find biome ingame`

@@ -1,0 +1,19 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:biome/woodland/taiga/bushy_pine": 1,
+      "antique_atlas:biome/woodland/taiga/pine": 5,
+      "antique_atlas:biome/flatland/plains/grass_bushes": 1
+    },
+    "mid": {
+      "antique_atlas:biome/woodland/taiga/bushy_pine_hills_low": 1,
+      "antique_atlas:biome/woodland/taiga/pine_hills_low": 5,
+      "antique_atlas:biome/flatland/plains/grass_bushes_hills_low": 1
+    },
+    "peak": {
+      "antique_atlas:biome/woodland/taiga/bushy_pine_hills": 1,
+      "antique_atlas:biome/woodland/taiga/pine_hills": 5,
+      "antique_atlas:biome/flatland/plains/grass_bushes_hills": 1
+    }
+  }
+}

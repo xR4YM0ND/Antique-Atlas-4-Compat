@@ -1,7 +1,9 @@
 {
 	"antique_atlas:tiling": {
 		"tags": [
-			"antique_atlas:pine"
+			"antique_atlas:pine",
+      "antique_atlas:hills",
+      "antique_atlas:bushy"
 		],
 		"tilesTo": [
 			"#antique_atlas:pine",

@@ -1,5 +1,14 @@
 {
 	"antique_atlas:tiling": {
-		"parent": "antique_atlas:base/snow"
+		"tags": [
+      "antique_atlas:jungle",
+			"antique_atlas:bamboo",
+      "antique_atlas:snowy",
+      "antique_atlas:grassy"
+		],
+		"tilesTo": [
+      "#antique_atlas:jungle",
+			"#antique_atlas:bamboo"
+		]
 	}
 }

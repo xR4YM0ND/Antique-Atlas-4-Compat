@@ -1,0 +1,18 @@
+{
+    "textures": {
+        "valley": {
+            "antique_atlas:base/grass": 3,
+            "antique_atlas:biome/flatland/plains/grass_3": 4,
+            "antique_atlas:biome/flatland/plains/grass_bushes": 1,
+            "antique_atlas:biome/flatland/plains/grass_ants": 1
+        },
+        "mid": {
+            "antique_atlas:biome/flatland/plains/grass_hills_low": 7,
+            "antique_atlas:biome/flatland/plains/grass_bushes_hills_low": 1
+        },
+        "peak": {
+            "antique_atlas:biome/flatland/plains/grass_hills": 7,
+            "antique_atlas:biome/flatland/plains/grass_bushes_hills": 1
+        }
+    }
+}
