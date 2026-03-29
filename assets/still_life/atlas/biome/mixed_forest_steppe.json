@@ -1,0 +1,23 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:base/grass": 1,
+      "antique_atlas:biome/flatland/plains/grass_3": 1,
+      "antique_atlas:biome/flatland/plains/grass_bushes": 1,
+      "antique_atlas:biome/woodland/taiga/bushy_pine": 1,
+      "antique_atlas:biome/woodland/taiga/pine": 2,
+      "antique_atlas:biome/woodland/forest/oak_fancy_mixed": 3,
+			"antique_atlas:biome/woodland/forest/oak_mixed": 3,
+      "antique_atlas:biome/woodland/forest/grass_oak_mixed": 3
+    },
+    "peak": {
+      "antique_atlas:biome/flatland/plains/grass_hills_low": 1,
+      "antique_atlas:biome/flatland/plains/grass_bushes_hills_low": 1,
+      "antique_atlas:biome/woodland/taiga/bushy_pine_hills_low": 1,
+      "antique_atlas:biome/woodland/taiga/pine_hills_low": 2,
+      "antique_atlas:biome/woodland/forest/oak_fancy_mixed_hills_low": 3,
+			"antique_atlas:biome/woodland/forest/oak_mixed_hills_low": 3,
+      "antique_atlas:biome/woodland/forest/grass_oak_mixed_hills_low": 3
+    }
+  }
+}
