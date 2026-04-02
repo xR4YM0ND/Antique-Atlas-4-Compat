@@ -4,6 +4,7 @@
 
 ### Added:
 - [Let's Do] BloomingNature
+- Blooming Biosphere
 
 ### Fixed:
 - RP won't load due to unsupported characters in filename `// removed filename colors`
