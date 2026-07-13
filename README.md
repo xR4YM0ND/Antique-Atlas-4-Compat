@@ -20,7 +20,7 @@ This resourcepack adds modded support for [aa4](https://modrinth.com/mod/antique
 - [Cliff under a Tree (CliffTree)](https://modrinth.com/datapack/clifftree) `// biomes`
 - [Environmental](https://modrinth.com/mod/environmental) `// biomes`
 - [Nature's Spirit](https://modrinth.com/mod/natures-spirit) `// biomes + structures + markers`
-- [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone)
+- [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone) `// biomes`
 - [Spawn](https://modrinth.com/mod/spawn-mod) `// biome`
 - [Terralith](https://modrinth.com/datapack/terralith) `// biomes`
 - [Vanilla Backport](https://modrinth.com/mod/vanillabackport) `pale_oak biome`
