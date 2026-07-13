@@ -1,4 +1,15 @@
-# Antique Atlas Compat Changelog
+# Antique Atlas 4 Compat Changelog
+
+## 1.4
+
+### Added:
+- Biomes O Plenty `21.1.0.14` Support `// biomes`
+- Oh The Biomes We've Gone `2.6.0` Support `// biomes`
+- TerraBlender `4.1.0.8` Support `// placeholder biome`
+
+### Updated:
+- [Let's Do] BloomingNature `// added desert_oasis biome`
+- Vanilla Backport `// new namespace - thx @Zoomll`
 
 ## 1.3
 

@@ -5,7 +5,7 @@
 			"antique_atlas:biome/flatland/plains/snowy/snow_2": 3,
 			"antique_atlas:biome/flatland/plains/snowy/snow_3": 5
 		},
-		"high": "antique_atlas:biome/flatland/plains/snowy/snow_hills_low",
+		"mid": "antique_atlas:biome/flatland/plains/snowy/snow_hills_low",
 		"peak": "antique_atlas:biome/flatland/plains/snowy/snow_hills"
 	}
 }

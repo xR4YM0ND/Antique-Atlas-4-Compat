@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "valley": [
+      "antique_atlas:biome/woodland/jungle/sparse/grass_palm",
+      "antique_atlas:base/grass",
+      "antique_atlas:biome/flatland/plains/grass_3"
+    ],
+    "peak": {
+      "antique_atlas:biome/woodland/jungle/sparse/grass_palm_hills": 1,
+      "antique_atlas:biome/flatland/plains/grass_hills": 2
+    }
+  }
+}

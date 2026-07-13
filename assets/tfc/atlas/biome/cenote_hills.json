@@ -1,0 +1,32 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:base/grass": 5,
+      "antique_atlas:biome/flatland/plains/grass_3": 5,
+      "antique_atlas:biome/woodland/forest/oak_fancy_mixed": 3,
+      "antique_atlas:biome/woodland/forest/oak_mixed": 2,
+      "antique_atlas:biome/woodland/forest/grass_oak_mixed": 2,
+      "antique_atlas:biome/flatland/plains/grass_oak_sparse": 1,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_tall_sparse": 1,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_sparse": 1
+    },
+    "mid": {
+      "antique_atlas:biome/flatland/plains/grass_hills_low": 10,
+      "antique_atlas:biome/woodland/forest/oak_fancy_mixed_hills_low": 3,
+      "antique_atlas:biome/woodland/forest/oak_mixed_hills_low": 2,
+      "antique_atlas:biome/woodland/forest/grass_oak_mixed_hills_low": 2,
+      "antique_atlas:biome/flatland/plains/grass_oak_sparse_hills_low": 1,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_tall_sparse_hills_low": 1,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_sparse_hills_low": 1
+    },
+    "peak": {
+      "antique_atlas:biome/flatland/plains/grass_hills": 10,
+      "antique_atlas:biome/woodland/forest/oak_fancy_mixed_hills": 3,
+      "antique_atlas:biome/woodland/forest/oak_mixed_hills": 2,
+      "antique_atlas:biome/woodland/forest/grass_oak_mixed_hills": 2,
+      "antique_atlas:biome/flatland/plains/grass_oak_sparse_hills": 1,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_tall_sparse_hills": 1,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_sparse_hills": 1
+    }
+  }
+}

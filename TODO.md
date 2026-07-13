@@ -13,9 +13,6 @@
 - Venus Tower
 - Warped Watch Tower
 
-## All the biomes we have gone
-- everything
-
 ## Atmospheric
 ### BIOMES
 - Grimwoods `// couldn't find biome ingame`
@@ -23,15 +20,6 @@
 
 ## Big Globe
 - everything
-
-## Biomes O Plenty
-### BIOMES
-- Bayou
-- Crystalline Chasm
-- End Corruption
-- End Reef
-- End Wilds
-- Erupting Inferno
 
 ## Nature's Spirit
 ### STRUCTURES
@@ -41,10 +29,10 @@
 - everything
 
 ## Still Life
-- everything
+- a lot biomes left
 
 ## TerraFirmaCraft
-- everything
+- some biomes left
 
 ## Terralith
 ### STRUCTURES

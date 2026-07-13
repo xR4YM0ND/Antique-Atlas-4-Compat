@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "antique_atlas:biome/arid/badlands/terracotta_shrubs_tiered": 2,
+    "antique_atlas:biome/arid/badlands/terracotta_tiered": 1,
+    "antique_atlas:biome/arid/badlands/terracotta_tiered_rough": 4,
+    "antique_atlas:biome/arid/badlands/terracotta_tiered_separate": 1,
+    "antique_atlas:biome/arid/savanna/grass_acacia_2": 1
+  }
+}

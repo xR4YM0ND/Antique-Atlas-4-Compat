@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:biome/arid/savanna/grass_acacia_1": 3,
+      "antique_atlas:biome/flatland/plains/grass_3": 4
+    }
+  }
+}

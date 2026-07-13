@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:biome/flatland/plains/grass_hills": 12,
+      "antique_atlas:biome/woodland/forest/grass_bushes_hills": 5
+    }
+  }
+}

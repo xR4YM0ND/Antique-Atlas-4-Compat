@@ -1,0 +1,12 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:biome/flatland/plains/grass_hills": 2,
+      "antique_atlas:biome/woodland/forest/oak_fancy_mixed_hills": 3,
+      "antique_atlas:biome/woodland/forest/oak_mixed_hills": 2,
+      "antique_atlas:biome/woodland/forest/grass_oak_mixed_hills": 2,
+      "antique_atlas:biome/highland/grove/smooth_spruce_mountains": 1,
+      "antique_atlas:biome/highland/peaks/stony/smooth_mountains": 1
+    }
+  }
+}

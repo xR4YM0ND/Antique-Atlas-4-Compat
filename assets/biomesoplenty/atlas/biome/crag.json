@@ -1,3 +1,6 @@
 {
-	"textures": "antique_atlas:biome/highland/windswept/hills/gravelly/stone_hills_low"
+	"textures": {
+		"antique_atlas:biome/arid/badlands/eroded/terracotta_fingers": 2,
+		"antique_atlas:biome/arid/badlands/eroded/terracotta_pillars": 1
+	}
 }

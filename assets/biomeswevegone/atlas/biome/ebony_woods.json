@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:biome/woodland/forest/dark/oak_dense": 3,
+      "antique_atlas:biome/nonland/mushroom/mycelium_mushrooms_huge_red_edge": 1
+    }
+  }
+}

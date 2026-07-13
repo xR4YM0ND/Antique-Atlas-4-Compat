@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "valley": "antique_atlas:biome/woodland/flower/dandelion_grass",
+    "mid": "antique_atlas:biome/woodland/flower/dandelion_grass_hills_low",
+    "peak": "antique_atlas:biome/woodland/flower/dandelion_grass_hills"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:biome/arid/savanna/sand_grass_hills": 4,
+      "antique_atlas:biome/arid/savanna/sand_grass_3_hills": 4
+    }
+  }
+}

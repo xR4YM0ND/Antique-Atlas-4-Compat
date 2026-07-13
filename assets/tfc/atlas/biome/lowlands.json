@@ -1,0 +1,11 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:base/grass": 2,
+      "antique_atlas:biome/flatland/plains/grass_3": 3,
+      "antique_atlas:biome/flatland/plains/grass_oak_sparse": 1,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_tall_sparse": 1,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_sparse": 1
+    }
+  }
+}

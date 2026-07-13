@@ -1,0 +1,17 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:biome/arid/savanna/sand_grass": 5,
+      "antique_atlas:biome/arid/savanna/sand_grass_3": 6
+    },
+    "mid": {
+      "antique_atlas:biome/arid/savanna/sand_grass_hills_low": 5,
+      "antique_atlas:biome/arid/savanna/sand_grass_3_hills_low": 6
+    },
+    "peak": {
+      "antique_atlas:biome/arid/savanna/plateau/sand_grass_plateau_1": 2,
+      "antique_atlas:biome/arid/savanna/plateau/sand_grass_plateau_2": 2,
+      "antique_atlas:biome/arid/savanna/plateau/sand_grass_plateau_3": 2
+    }
+  }
+}

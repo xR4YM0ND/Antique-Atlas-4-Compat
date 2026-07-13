@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "valley": {
+      "antique_atlas:base/flat": 1
+    },
+    "mid": {
+      "antique_atlas:base/hills_low": 1
+    },
+    "peak": {
+      "antique_atlas:base/hills": 1
+    }
+  }
+}
