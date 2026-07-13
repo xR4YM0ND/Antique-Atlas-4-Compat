@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"valley": "antique_atlas:biome/woodland/forest/pale/pale_oak_dense",
+		"high": "antique_atlas:biome/woodland/forest/pale/pale_oak_dense_hills"
+	}
+}
