@@ -1,5 +1,12 @@
 # Antique Atlas 4 Compat Changelog
 
+## 1.5
+
+### Added:
+- Good Ending `1.1.1` Support `// biomes`
+- Herios' Floral Expansion `1.2.2` Support `// biome`
+- No Man's Land `1.5.12` Support `// biomes`
+
 ## 1.4
 
 ### Added:

@@ -1,0 +1,14 @@
+{
+  "textures": {
+    "valley": [
+      "antique_atlas:biome/woodland/forest/snowy/oak_fancy_mixed",
+      "antique_atlas:biome/woodland/forest/snowy/oak_mixed",
+      "antique_atlas:biome/woodland/forest/snowy/grass_oak_mixed"
+    ],
+    "high": [
+      "antique_atlas:biome/woodland/forest/snowy/oak_fancy_mixed_hills_low",
+      "antique_atlas:biome/woodland/forest/snowy/oak_mixed_hills_low",
+      "antique_atlas:biome/woodland/forest/snowy/grass_oak_mixed_hills_low"
+    ]
+  }
+}

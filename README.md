@@ -19,7 +19,10 @@ This resourcepack adds modded support for [aa4](https://modrinth.com/mod/antique
 - [Blooming Biosphere](https://modrinth.com/mod/blooming-biosphere) `// biomes`
 - [Cliff under a Tree (CliffTree)](https://modrinth.com/datapack/clifftree) `// biomes`
 - [Environmental](https://modrinth.com/mod/environmental) `// biomes`
+- [Good Ending](https://modrinth.com/mod/good-ending) `// biomes`
+- [Herios' Floral Expansion](https://modrinth.com/mod/herios-floral-expansion) `// biomes`
 - [Nature's Spirit](https://modrinth.com/mod/natures-spirit) `// biomes + structures + markers`
+- [No Man's Land](https://modrinth.com/mod/no-mans-land) `// biomes`
 - [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone) `// biomes`
 - [Spawn](https://modrinth.com/mod/spawn-mod) `// biome`
 - [Terralith](https://modrinth.com/datapack/terralith) `// biomes`
